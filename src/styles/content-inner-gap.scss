@@ -1,7 +1,0 @@
-.content-inner-gap {
-  row-gap: $content-inner-gap;
-
-  @media (max-width: 768px) {
-    row-gap: $content-inner-gap - 40px;
-  }
-}
